@@ -1,0 +1,8 @@
+FLV内のMP3のみ再生可能。(Videoは再生不可)
+AACは無理です。
+制限多いですし、あんまり使い道もないでしょうが。
+
+GNU Lisence です。
+つまり改変などは、自由です。
+
+note:This component fails input validator test. Use at your own risk.

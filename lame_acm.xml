@@ -1,0 +1,13 @@
+<lame_acm>
+    <encodings default="Current">
+        <config name="Current">
+            <Smart use="true" />
+            <ABR use="true" min="96" max="192" step="8" />
+            <Channel mode="Joint-stereo" />
+            <Copyright use="true" />
+            <CRC use="true" />
+            <Original use="false" />
+            <Private use="false" />
+        </config>
+    </encodings>
+</lame_acm>
